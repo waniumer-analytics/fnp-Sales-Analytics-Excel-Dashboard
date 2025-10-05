@@ -4,153 +4,107 @@
 
                                                 Project Overview
 
-This project presents a comprehensive sales and analysis dashboard for **Ferns and Petals (FNP)**, a leading gift delivery company specializing in occasion-based gifting. The dashboard analyzes 1,000 orders generating ₹35.21 lakhs in revenue across various occasions including Diwali, Raksha Bandhan, Valentine's Day, Birthdays, and Anniversaries.
+- This project presents a comprehensive sales and analysis dashboard for Ferns and Petals (FNP), a leading gift delivery company specializing in occasion-based gifting. The dashboard analyzes 1,000 orders generating ₹35.21 lakhs in revenue across various occasions including Diwali, Raksha Bandhan, Valentine's Day, Birthdays, and Anniversaries.
+
+<img width="1732" height="803" alt="DASHBOARD  png" src="https://github.com/user-attachments/assets/5e4ad29c-a610-40ab-9aec-c9a12cd59d4f" />
 
                                              Key Business Metrics
-- **Total Revenue**: ₹35,20,984.00
-- **Total Orders**: 1,000
-- **Average Customer Spending**: ₹3,520.98
-- **Average Delivery Time**: 5.53 days
+1. Total Revenue: ₹35,20,984.
+2. Total Orders: 1,000.
+3. Average Customer Spending : ₹3,520.98.
+4. Average Delivery Time  : 5.53 days.
 
                                              Dashboard Components
-- Revenue analysis by Occasions (7 categories)
-- Revenue breakdown by Product Category (8 categories)
-- Monthly sales performance tracking
-- Top 5 products by revenue
-- Top 10 cities by order volume
-- Hourly order pattern analysis
-- Time-series trends with interactive filters
+1. Revenue analysis by Occasions (7 categories).
+2. Revenue breakdown by Product Category (8 categories).
+3. Monthly sales performance tracking.
+4. Top 5 products by revenue.
+5. Top 10 cities by order volume.
+6. Hourly order pattern analysis.
+7. Time-series trends with interactive filters
 
-                                            Insights and Recommendations
+                                                   Insights and Recommendations
 
-                           INSIGHT 1: Strong Premium Performance with High Customer Value
-The business generated ₹35.21 lakhs from 1,000 orders with an average spending of ₹3,520.98, indicating FNP operates in the premium gift segment where customers are willing to pay significantly for quality products.
-RECOMMENDATIONS:
-- Introduce "Luxury Collection" with products priced ₹5,000-₹10,000 to capture ultra-premium segment
-- Implement upselling with "Frequently Bought Together" suggestions and premium gift-wrapping add-ons (₹200-500)
-- Create exclusive designer collaborations for high-value customers
-- Expected impact: 15-20% increase in average order value
 
-                           INSIGHT 2: Extreme Revenue Seasonality Creates Business Risk
-Revenue shows dramatic fluctuations with peak months (February, August) generating ₹700K while off-peak months barely reach ₹100-200K. This means 60% of annual revenue is concentrated in 2-3 months, creating significant cash flow challenges.
+                                   INSIGHT 1: Strong Premium Performance with High Customer Value
+- Business generated ₹35.21 lakhs from 1,000 orders with average spending of ₹3,520.98, indicating premium gift segment with high customer value.
 
-RECOMMENDATIONS:
-- Launch "Year-Round Celebration" monthly subscription service for consistent revenue
-- Create new occasions like Corporate Appreciation Month, Friendship Day, and Monsoon Magic collections
-- Implement early-bird discounts 45 days before major occasions to shift demand
-- Offer installment payment options for expensive gifts
-- Expected impact: 30-40% revenue boost in off-peak months
+RECOMMENDATIONS
+- Introduce Luxury Collection (₹5,000-₹10,000), implement upselling with bundled suggestions and premium gift-wrapping (₹200-500), create exclusive designer collaborations. Expected impact: 15-20% increase in average order value.
 
-                             INSIGHT 3: Anniversary & Raksha Bandhan Dominate Revenue
-Anniversary (₹700K) and Raksha Bandhan (₹650K) significantly outperform other occasions, showing strong product-market fit but also opportunity to replicate this success across other celebrations.
+                                   INSIGHT 2: Extreme Revenue Seasonality Creates Business Risk
+- Revenue shows dramatic fluctuations with 60% of annual revenue concentrated in 2-3 months, creating cash flow challenges.
 
-RECOMMENDATIONS:
-- Increase marketing spend by 50% for Anniversary and Raksha Bandhan periods with 20-30 new SKUs
-- Partner with wedding planners and event organizers for bulk anniversary orders
-- Apply successful strategies to elevate Birthday and Valentine's Day to ₹500K+ level
-- Create automated occasion reminders 2 weeks before customer's saved dates
-- Expected impact: 25-30% growth in top occasions; 40% increase in repeat orders
+RECOMMENDATIONS
+- Launch monthly subscription service, create new occasions, implement early-bird discounts 45 days before major occasions, offer installment payments. Expected impact: 30-40% revenue boost in off-peak months.
 
-                              INSIGHT 4: Colors Category Dominates, Others Underperform
-Colors category generates ₹1,000K (30% of total revenue) while Cakes, Mithai, and Plants significantly lag at ₹200K or less, showing portfolio imbalance and untapped potential.
+                                  INSIGHT 3: Anniversary & Raksha Bandhan Dominate Revenue
+- Anniversary (₹700K) and Raksha Bandhan (₹650K) significantly outperform other occasions.
 
-RECOMMENDATIONS:
-- Expand Colors category with 15-20 new variants and premium "Designer Colors Collection"
-- Revitalize underperforming categories: partner with premium bakeries for cakes, launch "Plant + Care Kit" bundles, create fusion mithai with designer packaging
-- Allocate ₹50K dedicated marketing budget for each underperforming category
-- Create cross-category bundles with 15% discount to increase basket size
-- Expected impact: Colors to ₹1,500K; underperforming categories grow 100-150%
+RECOMMENDATIONS
+- Increase marketing spend by 50% for top occasions with 20-30 new SKUs, partner with wedding planners, apply successful strategies to Birthday and Valentine's Day, create automated occasion reminders. Expected impact: 25-30% growth in top occasions; 40% increase in repeat orders.
 
-                             INSIGHT 5: Peak Ordering Hours Present Marketing Opportunities
-Orders maintain steady revenue throughout the day with noticeable peaks around 6 AM, 6 PM, and 10 PM, indicating customers order during convenient morning, evening, and night windows.
+                                 INSIGHT 4: Colors Category Dominates, Others Underperform
+-Colors category generates ₹1,000K (30% of revenue) while Cakes, Mithai, and Plants lag at ₹200K or less.
 
-RECOMMENDATIONS:
-- Schedule promotional emails and SMS at 5:30 AM, 5:30 PM, and 9:30 PM
-- Run flash sales during peak hours (6-8 AM, 6-8 PM, 9 PM-12 AM)
-- Increase social media ad spend by 40% during peak windows
-- Offer time-based promotions: Early Bird Special (morning), Evening Rush (evening), Night Owl Deals (night)
-- Expected impact: 15-20% improvement in conversion rates
+RECOMMENDATIONS
+-Expand Colors category with 15-20 new variants, revitalize underperforming categories through premium partnerships and bundling, allocate ₹50K marketing budget per underperforming category. Expected impact: Colors to ₹1,500K; underperforming categories grow 100-150%.
 
-                             INSIGHT 6: Delivery Time Needs Improvement for Competitiveness
-Average delivery time of 5.53 days is acceptable but not competitive in today's fast-delivery market where customers expect 2-3 day delivery or even same-day options.
+                                 INSIGHT 5: Peak Ordering Hours Present Marketing Opportunities
+- Orders peak around 6 AM, 6 PM, and 10 PM during convenient customer windows.
 
-RECOMMENDATIONS:
-- Launch 24-hour express delivery option (charge ₹200-300 premium)
-- Establish micro-fulfillment centers in top 5 cities to reduce transit time
-- Partner with Blue Dart and Delhivery for faster logistics
-- Implement real-time tracking with proactive delivery updates via SMS/WhatsApp
-- Expected impact: Reduce average to 3.5 days; 30% opt for express generating ₹200K additional revenue
+RECOMMENDATIONS
+- Schedule promotional communications at 5:30 AM, 5:30 PM, and 9:30 PM, run flash sales during peak hours, increase social media ad spend by 40% during peak windows. Expected impact: 15-20% improvement in conversion rates.
 
-                               INSIGHT 7: Even Geographic Distribution Enables Expansion
-Order distribution is balanced across metros and tier-2 cities (15-30 orders each), showing successful penetration beyond major markets with no over-dependence on single geography.
+                                INSIGHT 6: Delivery Time Needs Improvement for Competitiveness
+- Average delivery time of 5.53 days lags behind market expectations of 2-3 days.
 
-RECOMMENDATIONS:
-- Identify 15-20 additional tier-2 cities with similar demographics for expansion
-- Launch location-specific campaigns in regional languages with local influencers
-- Create region-specific product bundles (e.g., coastal cities get tropical-themed gifts)
-- Establish dark stores in top 5 cities for 2-3 day delivery
-- Expected impact: 300-400 additional orders; 20% total order growth
+RECOMMENDATIONS
+- Launch 24-hour express delivery (₹200-300 premium), establish micro-fulfillment centers in top 5 cities, partner with premium logistics providers, implement real-time tracking. Expected impact: Reduce average to 3.5 days; 30% opt for express generating ₹200K additional revenue.
+
+                                INSIGHT 7: Even Geographic Distribution Enables Expansion
+- Balanced order distribution across metros and tier-2 cities (15-30 orders each) shows successful penetration.
+
+RECOMMENDATIONS
+- Identify 15-20 additional tier-2 cities for expansion, launch location-specific campaigns in regional languages, create region-specific product bundles, establish dark stores in top 5 cities. Expected impact: 300-400 additional orders; 20% total order growth.        
 
                                          Tools and Techniques Used
 
-Data Analysis & Visualization:
-- Microsoft Excel  for dashboard creation and data visualization.
-- Data cleaning to handle missing values and remove duplicates
+1. Data Analysis & Visualization
+ - Microsoft Excel for dashboard creation and data visualization, data cleaning to handle missing values and remove duplicates.
 
+2. Analytical Techniques
+- Descriptive Analytics for revenue, orders, and customer behavior analysis, Trend Analysis for monthly and hourly pattern identification, Comparative Analysis for occasion, category, and product performance, Geographic Analysis for city-wise order distribution mapping, Time-Series Analysis for seasonal trends and patterns
 
-Analytical Techniques:
-- Descriptive Analytics for revenue, orders, and customer behavior analysis
-- Trend Analysis for monthly and hourly pattern identification
-- Comparative Analysis for occasion, category, and product performance
-- Geographic Analysis for city-wise order distribution mapping
-- Time-Series Analysis for seasonal trends and patterns
+3. Key Metrics & KPIs
+-  Revenue, Average Order Value (AOV), Average Delivery Time, Revenue per Occasion/Category/Product, Order volume by geography and time.
 
-Key Metrics & KPIs:
-- Total Revenue, Average Order Value (AOV), Average Delivery Time
-- Revenue per Occasion/Category/Product
-- Order volume by geography and time
-
-Visualization Components:
-- Bar Charts (Revenue by Occasions, Categories, Cities, Products)
-- Line Charts (Monthly trends, hourly patterns)
-- KPI Cards (Key metrics dashboard)
-- Interactive Filters (Date range, Occasion, Category selectors)
+4. Visualization Components
+- Bar Charts (Revenue by Occasions, Categories, Cities, Products), Line Charts (Monthly trends, hourly patterns), KPI Cards (Key metrics dashboard), Interactive Filters (Date range, Occasion, Category selectors).
 
                                                   Key Learnings
 
-Technical Skills:
-- Advanced Dashboard Design: Created interactive, user-friendly business intelligence dashboards
-- Data Storytelling: Transformed raw data into actionable business insights
-- KPI Development: Identified and calculated critical business metrics
-- Visual Analytics: Applied best practices for effective data visualization
+1. Technical Skills
+- Dashboard design, data storytelling, KPI development, visual analytics.
 
-Business Acumen:
-- E-commerce Analytics: Understanding seasonal patterns and customer behavior in gift delivery business
-- Revenue Optimization: Identified multiple levers for growth through pricing, cross-sell, and retention
-- Strategic Thinking: Developed prioritized recommendations based on data insights
-- Market Analysis: Analyzed geographic and demographic patterns for expansion opportunities
+2.Business Acumen
+- E-commerce analytics, revenue optimization, strategic thinking, market analysis.
 
-Domain Expertise:
-- Retail Operations: Understanding of inventory, logistics, and fulfillment challenges
-- Customer Segmentation: Identified premium customer behavior and spending patterns
-- Product Portfolio Management: Analyzed category performance and diversification needs
-- Marketing Strategy: Time-based and occasion-based campaign optimization
+3.Domain Expertise
+- Retail operations, customer segmentation, product portfolio management, marketing strategy.
 
-Problem-Solving:
-- Seasonality Management: Developed strategies to combat extreme revenue fluctuations
-- Category Balancing: Identified underperforming categories and created revival strategies
-- Operational Efficiency: Recommended logistics improvements for faster delivery
-- Growth Planning: Created actionable 90-day roadmap with measurable outcomes
+4.Problem-Solving
+- Seasonality management, category balancing, operational efficiency, growth planning.
 
                                                    Links
 
-GitHub Repository:-
-LinkedIn Profile:-
+GitHub Repository:-www.github.com/waniumer-analytics
+LinkedIn Profile:- www.linkedin.com/in/waniumer-analytics 
 
 
                                                   Connect With Me:
- 📧 Email: 
-💼 Portfolio:
+ 📧 Email:- waniumar398@gmail.com
+💼 Portfolio:-
 
 
 
